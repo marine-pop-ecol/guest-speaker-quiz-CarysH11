@@ -1,0 +1,23 @@
+---
+title: "Guest Speaker Reflection"
+author: "Carys Hughes"
+date: "01/11/2021"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+\newpage
+
+**What you learned from the entire speaker series (5 points)**
+
+During this speaker series I learned many vital pieces of information from experienced individuals in this field to succeed as ecologists. We learned that good observations, creativity, and effective communication are all essential, however, there were a couple reoccurring tips. One of these tips was gaining value in, both, field work experience and applicable programming skills. This was one of the pieces of information that I found helpful as I gained a better understanding of why this is necessary and how it can be applied in course work and future possibilities. Another piece of advice that was brought up by a couple speakers was the benefit of networking and connecting with individuals in your field. This was further explained with specific ways to reach out to graduate students or faculty members. I also appreciated hearing about how to do research in an area with diverse groups of people and the ways to be sensitive to varying social and cultural contexts. Dr. Calwood’s tip on checking your own bias before starting your research was a great way to conclude this series as we are often taught science is objective. It was an important reminder that who we are, and our perspectives can inform our decisions.
+
+**Describe 3-4 of the 8 vital pieces of information that were given to you to succeed as ecologists (6 points) and how you used the information from the lectures during the course, and/or how you will use it in the future (4 points)**
+
+Emma Atkinson and Dr. Sean Godwin advised that there is value in developing skills from both the field and behind the computer. This advice stuck with me as we are currently learning skills using Rstudio and techniques out in the field. I further understood the benefits of this course as they explained that even basic programming knowledge along with field work experience can allow you to work on diverse projects and connect with different individuals in this discipline. This piece of advice can not only be used in this course, but it can further be used for future projects once these skills are developed. This tip was especially helpful for me as I didn’t understand the need to learn these programming skills before coming to Bamfield and listening to these talks. I mainly wanted to be a field ecologist; however, I now have an appreciation for the skills I am accumulating now. 
+
+Making connections with people in the field you are most interested in was another helpful tip suggested by Dr. Sean Godwin. This tip has been mentioned to me before, however, I enjoyed the explanation that Dr. Godwin gave as he included some information on how to go about doing this. He suggested starting this process early on rather than waiting before you are in need of a job or if you are unsure of your next steps. Emailing faculty or graduate students conducting interesting research to you is a good way to become involved. Dr. Godwin suggested reaching out to volunteer in their lab, sit in on staff meetings and apply for any tech jobs offered. They have been on this path before and are keen to give advice if you show an interest in their work. I have a better comprehension of how to network in my discipline in the future and what the outcomes might be. Knowing that this happens often, I will be less anxious reaching out for advice or opportunities
+
+The final vital piece of information that resonated the most with me was observation is key to good science. Dr. Shannon Hennessey explained taking lots of reference photos while you are performing your experiments is incredibly helpful to look back on. I am a very artistic person and her talk on scientific illustrations greatly piqued my interest. These reference photos could benefit any scientific drawings I complete for future projects as it is essential for perfecting diagnostic features. Observations are not only important to notice changes in whatever you are studying but it is useful to document your species of interest and its specific morphological characteristics. I also used this method during the species ID assignment. The published literature was useful, however, observing the barnacles out in the field and being able to portray an ideal specimen through scientific illustrations with the reference photos clarified how to properly identify each barnacle. This process further facilitated easy communication with our peers on how to use these identifying techniques. 
